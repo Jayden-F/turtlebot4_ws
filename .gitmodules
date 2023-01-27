@@ -1,0 +1,8 @@
+[submodule "src/turtlebot4"]
+	path = src/turtlebot4
+	url = https://github.com/Jayden-F/turtlebot4.git
+	branch = galactic-namespace
+[submodule "src/turtlebot4_robot"]
+	path = src/turtlebot4_robot
+	url = https://github.com/Jayden-F/turtlebot4_robot.git
+	branch = galactic-namespace
